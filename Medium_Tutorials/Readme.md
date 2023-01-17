@@ -1,0 +1,4 @@
+Title | Original medium link | Implementation | 
+--- | --- | --- | 
+HBO Max Recommendation System | [HBO Max Recommendation System](https://medium.com/@aldimeolaalfarisy/hbo-max-recommendation-system-52dc0b59dc9b) | [My implementation](HBO%20Max%20Recommendation%20System/HBO%20Max%20Recommendation%20System-checkpoint.ipynb) | 
+Vanilla pipeline for Recommender Systems (1/3) | [Vanilla pipeline for Recommender Systems (1/3)](https://datascienceub.medium.com/1-3-recommendation-vanilla-pipeline-for-recommender-systems-rs-ab7425b86d9) | [My implementation](Vanilla%20pipeline%20for%20Recommender%20Systems.ipynb) | 
