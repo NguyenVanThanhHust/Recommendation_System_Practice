@@ -1,1 +1,1 @@
-Link: https://medium.com/geekculture/transformer-based-recommendation-system-b350ef9cb57
+Link: [transformer-based-recommendation-system](https://medium.com/geekculture/transformer-based-recommendation-system-b350ef9cb57) [code](https://github.com/vatsalsaglani/bert4rec/tree/main/scripts)
